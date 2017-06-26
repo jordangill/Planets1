@@ -1,1 +1,2 @@
 Mars is the closest planet to the sun
+It's red because of rust
